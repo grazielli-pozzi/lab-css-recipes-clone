@@ -1,0 +1,29 @@
+.cover {
+    padding: 10px;
+    background-image: url('../images/apple-pie.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    padding: 200px 400px;
+}
+
+hr {
+    height:1px;
+    color: grey;
+    background-color: grey;
+}
+
+img {
+    width: 30%;
+    padding-left: 400px;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+}
